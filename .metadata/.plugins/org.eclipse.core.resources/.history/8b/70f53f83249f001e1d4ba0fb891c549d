@@ -1,0 +1,9 @@
+package javafirstprjt;
+
+pubilc class Firstprj{
+	public static void main(String args[]){
+	 system.out.println"my job";
+
+	}
+    
+}

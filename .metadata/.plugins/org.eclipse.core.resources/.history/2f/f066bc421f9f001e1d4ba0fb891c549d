@@ -1,0 +1,8 @@
+
+
+public class javafirstprj {
+	public static void main(String arg[javafirstprj]){
+	  System.out.print("my job");	
+}
+
+}
